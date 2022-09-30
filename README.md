@@ -1,4 +1,4 @@
-# NLW eSports
+# NLW e-Sports
 
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## Tecnologias 
 
-- HTML
+- HTML 
 - CSS
 - Noções de Git
 - Noçoes em Figma 
